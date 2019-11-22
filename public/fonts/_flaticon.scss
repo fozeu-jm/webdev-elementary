@@ -1,0 +1,112 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 28/05/2019 22:18
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-dashboard:before { content: "\f100"; }
+.flaticon-classmates:before { content: "\f101"; }
+.flaticon-multiple-users-silhouette:before { content: "\f102"; }
+.flaticon-users-social-symbol:before { content: "\f103"; }
+.flaticon-users:before { content: "\f104"; }
+.flaticon-maths-class-materials-cross-of-a-pencil-and-a-ruler:before { content: "\f105"; }
+.flaticon-next:before { content: "\f106"; }
+.flaticon-back:before { content: "\f107"; }
+.flaticon-up-arrow:before { content: "\f108"; }
+.flaticon-down-arrow:before { content: "\f109"; }
+.flaticon-teacher:before { content: "\f10a"; }
+.flaticon-calculator:before { content: "\f10b"; }
+.flaticon-books-stack-of-three:before { content: "\f10c"; }
+.flaticon-open-book:before { content: "\f10d"; }
+.flaticon-school:before { content: "\f10e"; }
+.flaticon-envelope:before { content: "\f10f"; }
+.flaticon-chat:before { content: "\f110"; }
+.flaticon-globe:before { content: "\f111"; }
+.flaticon-university:before { content: "\f112"; }
+.flaticon-bus-side-view:before { content: "\f113"; }
+.flaticon-test:before { content: "\f114"; }
+.flaticon-shopping-list:before { content: "\f115"; }
+.flaticon-two-settings-cogwheels:before { content: "\f116"; }
+.flaticon-menu:before { content: "\f117"; }
+.flaticon-script:before { content: "\f118"; }
+.flaticon-bed:before { content: "\f119"; }
+.flaticon-edit:before { content: "\f11a"; }
+.flaticon-delete:before { content: "\f11b"; }
+.flaticon-view:before { content: "\f11c"; }
+.flaticon-eye:before { content: "\f11d"; }
+.flaticon-users-group:before { content: "\f11e"; }
+.flaticon-avatar:before { content: "\f11f"; }
+.flaticon-man-user:before { content: "\f120"; }
+.flaticon-cv:before { content: "\f121"; }
+.flaticon-shut-down-icon:before { content: "\f122"; }
+.flaticon-power-button:before { content: "\f123"; }
+    
+    $font-Flaticon-dashboard: "\f100";
+    $font-Flaticon-classmates: "\f101";
+    $font-Flaticon-multiple-users-silhouette: "\f102";
+    $font-Flaticon-users-social-symbol: "\f103";
+    $font-Flaticon-users: "\f104";
+    $font-Flaticon-maths-class-materials-cross-of-a-pencil-and-a-ruler: "\f105";
+    $font-Flaticon-next: "\f106";
+    $font-Flaticon-back: "\f107";
+    $font-Flaticon-up-arrow: "\f108";
+    $font-Flaticon-down-arrow: "\f109";
+    $font-Flaticon-teacher: "\f10a";
+    $font-Flaticon-calculator: "\f10b";
+    $font-Flaticon-books-stack-of-three: "\f10c";
+    $font-Flaticon-open-book: "\f10d";
+    $font-Flaticon-school: "\f10e";
+    $font-Flaticon-envelope: "\f10f";
+    $font-Flaticon-chat: "\f110";
+    $font-Flaticon-globe: "\f111";
+    $font-Flaticon-university: "\f112";
+    $font-Flaticon-bus-side-view: "\f113";
+    $font-Flaticon-test: "\f114";
+    $font-Flaticon-shopping-list: "\f115";
+    $font-Flaticon-two-settings-cogwheels: "\f116";
+    $font-Flaticon-menu: "\f117";
+    $font-Flaticon-script: "\f118";
+    $font-Flaticon-bed: "\f119";
+    $font-Flaticon-edit: "\f11a";
+    $font-Flaticon-delete: "\f11b";
+    $font-Flaticon-view: "\f11c";
+    $font-Flaticon-eye: "\f11d";
+    $font-Flaticon-users-group: "\f11e";
+    $font-Flaticon-avatar: "\f11f";
+    $font-Flaticon-man-user: "\f120";
+    $font-Flaticon-cv: "\f121";
+    $font-Flaticon-shut-down-icon: "\f122";
+    $font-Flaticon-power-button: "\f123";
